@@ -9,4 +9,4 @@ I will also be using this repository to store all my Code Assignments and stuff 
 ## Anyhoo,
 See Ya later
 
-                                                                    -BastaMasta
+  -BastaMasta
